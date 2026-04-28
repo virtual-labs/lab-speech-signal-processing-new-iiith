@@ -57,7 +57,7 @@
       "name": "Cepstral analysis of speech",
       "short-name": "cepstral-analysis",
       "repo": "https://github.com/virtual-labs/exp-cepstral-analysis-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
