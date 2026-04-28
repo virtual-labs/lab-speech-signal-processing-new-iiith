@@ -29,14 +29,14 @@
       "name": "Nature of speech signal",
       "short-name": "nature-of-speech",
       "repo": "https://github.com/virtual-labs/exp-nature-speech-signal-iiith",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Basics of DSP",
       "short-name": "basics-of-dsp",
       "repo": "https://github.com/virtual-labs/exp-basics-of-dsp-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
