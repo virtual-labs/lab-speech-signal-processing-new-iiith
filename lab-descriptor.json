@@ -72,7 +72,7 @@
       "name": "Analysis by synthesis of speech",
       "short-name": "analysis-by-synthesis",
       "repo": "https://github.com/virtual-labs/exp-analysis-by-synthesis-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     }
   ],
